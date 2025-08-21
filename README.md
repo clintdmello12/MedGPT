@@ -446,3 +446,5 @@ You've reached the end of the main README! To get started with the code:
 4.  **Review example use cases:** The "💡 Example Use Cases" section provides conceptual ideas on how these models can be applied.
 
 For detailed explanations of each script's functionality and command-line arguments, refer to the respective script's `--help` option and the docstrings within the Python files.
+
+This is a research Project from California State University Long Beach (CECS 551 - Advanced Artificial Intelligence)
